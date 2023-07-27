@@ -28,7 +28,7 @@ Config.Bong_Models = {			---my props have the same name as the model, but if you
 	{ prop = "idrp_retro_pepebong",		itemName = 'idrp_retro_pepebong',	rbone = 58866,		bone = 18905,	x = 0.10,	y = -0.25,	z = 0.0,	xr = 95.0,	yr = 190.0,	zr = 180.0},
 	{ prop = "idrp_retro_blubong",		itemName = 'idrp_retro_blubong',	rbone = 58866,		bone = 18905,	x = 0.10,	y = -0.25,	z = 0.0,	xr = 95.0,	yr = 190.0,	zr = 180.0},
 	{ prop = "idrp_retro_pschobong",	itemName = 'idrp_retro_pschobong',	rbone = 58866,		bone = 18905,	x = 0.10,	y = -0.25,	z = 0.0,	xr = 95.0,	yr = 190.0,	zr = 180.0},
-	{ prop = "idrp_mega_joint",			itemName = 'idrp_mega_joint',		rbone = 58866,		bone = 18905,	x = 0.10,	y = -0.25,	z = 0.0,	xr = 95.0,	yr = 190.0,	zr = 180.0}
+	{ prop = "idrp_mega_joint",			itemName = 'idrp_mega_joint',		rbone = 58866,		bone = 18905,	x = 0.10,	y = -0.25,	z = -0.01,	xr = 97.0,	yr = 190.0,	zr = 180.0}
 }
 
 Config.Lighter_Models = {			---my props have the same name as the model, but if you have other props, you can add them here.
